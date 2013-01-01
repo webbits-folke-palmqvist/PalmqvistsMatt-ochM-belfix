@@ -1,10 +1,12 @@
 body {
+	background-image: url('../img/background.png');
 }
 
-.header {
-	text-align: center;
-	margin-top: 10px;
-	margin-bottom: 20px;
+.container {
+	margin-top: 15px;
+	background-color: #EEEEEE;
+	padding: 20px;
+	border-radius: 5px;
 }
 
 .hero-unit {
